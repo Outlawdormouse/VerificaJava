@@ -51,7 +51,7 @@ public class Film {
 	}
 	
 	public void modificaTitolo() {
-		this.titolo = s1.next();
+		this.titolo = s1.nextLine();
 	}
 	
 	public void lettereNelNome(){
